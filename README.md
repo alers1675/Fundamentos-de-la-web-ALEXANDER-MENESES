@@ -6,3 +6,6 @@ R:Internet se conoce como la red de redes y se define como red informática mund
 
 //¿Que es una solicitud y una respuesta?
 R:Es cuando pides una acdion a un servidor y el te la da de manera inmediata
+
+02/06/22
+Un encabezado es el tag que va de h1 a el h6 cada uno mas fundamental que el otro
