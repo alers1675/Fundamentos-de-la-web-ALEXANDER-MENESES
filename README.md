@@ -9,3 +9,6 @@ R:Es cuando pides una acdion a un servidor y el te la da de manera inmediata
 
 02/06/22
 Un encabezado es el tag que va de h1 a el h6 cada uno mas fundamental que el otro
+
+<html es padre<head y body son hermanos al mismo tiempo.
+<head es padre de tittle y body es padre de h1 y p,estos dos ultimos son hermanos
